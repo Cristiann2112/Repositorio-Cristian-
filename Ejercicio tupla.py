@@ -13,3 +13,4 @@ del vEdades[32]
 del vEdades[39]
 del vEdades[43]
 print(vEdades)
+#Al observar las edades impresas en el programa se muestra que los 10 han sido eliminados de la lista.
